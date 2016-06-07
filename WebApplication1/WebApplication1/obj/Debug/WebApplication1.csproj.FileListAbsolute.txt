@@ -1,0 +1,6 @@
+M:\mstools\samples\Git\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+M:\mstools\samples\Git\WebApplication1\WebApplication1\bin\WebApplication1.dll
+M:\mstools\samples\Git\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+M:\mstools\samples\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+M:\mstools\samples\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+M:\mstools\samples\Git\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
